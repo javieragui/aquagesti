@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/docker/" />
+  <Folder Name="/src/">
+    <Project Path="src/AquaGesti.SharedKernel/AquaGesti.SharedKernel.csproj" />
+    <Project Path="src/AquaGesti.Web/AquaGesti.Web/AquaGesti.Web.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/">
+    <Project Path="src/Modules/AquaGesti.Modules.Customers/AquaGesti.Modules.Customers.csproj" />
+    <Project Path="src/Modules/AquaGesti.Modules.Installations/AquaGesti.Modules.Installations.csproj" />
+    <Project Path="src/Modules/AquaGesti.Modules.Scheduling/AquaGesti.Modules.Scheduling.csproj" />
+    <Project Path="src/Modules/AquaGesti.Modules.Users/AquaGesti.Modules.Users.csproj" />
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>
