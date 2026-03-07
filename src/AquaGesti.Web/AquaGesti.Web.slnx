@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../Modules/AquaGesti.Modules.Customers/AquaGesti.Modules.Customers.csproj" />
+  <Project Path="../Modules/AquaGesti.Modules.Installations/AquaGesti.Modules.Installations.csproj" />
+  <Project Path="../Modules/AquaGesti.Modules.Scheduling/AquaGesti.Modules.Scheduling.csproj" />
+  <Project Path="../Modules/AquaGesti.Modules.Users/AquaGesti.Modules.Users.csproj" />
+  <Project Path="AquaGesti.Web/AquaGesti.Web.csproj" />
+</Solution>
