@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace AquaGesti.SharedKernel.Domain
 {
-    internal class IDomainEvent
+    public class IDomainEvent
     {
+        DateTime OccurredOnUtc { get; }
     }
 }
